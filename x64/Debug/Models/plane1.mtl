@@ -1,0 +1,14 @@
+# Blender MTL File: 'plane.obj'
+# Material Count: 4
+newmtl wire_027177148
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd   mahogfloor\\mahogfloor_basecolor.png
+map_Bump mahogfloor\\mahogfloor_normal.png
+map_Ks 	 mahogfloor\\mahogfloor_AO.png
+map_Ns 	 mahogfloor\\mahogfloor_roughness.tga

@@ -1,0 +1,9 @@
+﻿  Renderer.cpp
+  LightShader.cpp
+  GeometryShader.cpp
+c:\users\teemu\documents\oppari\opinnäytetyö_0.01\opinnäytetyö_0.01\geometryshader.cpp(186): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Engine.cpp
+c:\users\teemu\documents\oppari\opinnäytetyö_0.01\opinnäytetyö_0.01\engine.cpp(17): warning C4316: 'DirectXDevice': object allocated on the heap may not be aligned 16
+  Generating Code...
+  Opinnäytetyö_0.01.vcxproj -> C:\Users\Teemu\Documents\Oppari\Opinnäytetyö_0.01\Debug\Opinnäytetyö_0.01.exe
+  Opinnäytetyö_0.01.vcxproj -> C:\Users\Teemu\Documents\Oppari\Opinnäytetyö_0.01\Debug\Opinnäytetyö_0.01.pdb (Full PDB)
